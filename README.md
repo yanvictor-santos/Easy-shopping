@@ -9,8 +9,14 @@
   <li>CSS</li>
 </ul>
 <h2 align="center">Desktop</h2>
+<p align="center">
 <img src="https://github.com/yanvictor-santos/Easy-shopping/blob/main/assets/Easy-shopping-desktop.png?raw=true">
+</p>
+
 <br>
 <br>
 <h2 align="center">Mobile</h2>
-<img src="https://github.com/yanvictor-santos/Easy-shopping/blob/main/assets/Easy-shopping-mobile.png?raw=true">
+<p align="center">
+  <img src="https://github.com/yanvictor-santos/Easy-shopping/blob/main/assets/Easy-shopping-mobile.png?raw=true">
+</p>
+
